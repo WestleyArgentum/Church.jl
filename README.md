@@ -8,6 +8,7 @@ Getting started
 ---------------
 To install, use
 ```julia
+Pkg.add("Church")
 ```
 To load, use
 ```julia
